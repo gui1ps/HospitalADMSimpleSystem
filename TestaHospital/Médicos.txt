@@ -1,0 +1,14 @@
+
+CARDIOLOGISTAS:
+Nome: Lucas
+CPF: 895564
+OCUPAÇÃO: Médico
+CRM: 45632
+ATUAÇÃO: Cardiologista
+
+DERMATOLOGISTAS:
+Nome: Miguel
+CPF: 465135
+OCUPAÇÃO: Médico
+CRM: 731
+ATUAÇÃO: Dermatologista
